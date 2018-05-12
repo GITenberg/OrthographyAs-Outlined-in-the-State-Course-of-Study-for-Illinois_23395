@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '25820'
     url: http://www.gutenberg.org/2009/agents/25820
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23395#OrthographyAs-Outlined-in-the-State-Course-of-Study-for-Illinois
 gutenberg_bookshelf: Children's Instructional Books
 gutenberg_issued: '2007-11-07'
 gutenberg_type: Text
