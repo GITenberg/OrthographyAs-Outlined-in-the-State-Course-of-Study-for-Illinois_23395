@@ -1,0 +1,33 @@
+_repo: OrthographyAs-Outlined-in-the-State-Course-of-Study-for-Illinois_23395
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Hewett, Edwin C. (Edwin Crawford)
+    gutenberg_agent_id: '35474'
+    url: http://www.gutenberg.org/2009/agents/35474
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cavins, Elmer W. (Elmer Warren)
+    birthdate: 1864
+    gutenberg_agent_id: '25820'
+    url: http://www.gutenberg.org/2009/agents/25820
+description: ''
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2007-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23395'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- Etymology'
+title: 'Orthography
+
+  As Outlined in the State Course of Study for Illinois'
+url: http://www.gutenberg.org/ebooks/23395
